@@ -37,7 +37,6 @@ public class FiMyFiWebserviceApplication {
 
 
         // GET ALL
-        // TODO import table to db
 //        ResponseEntity<Fixture[]> resultAll = template.getForEntity(GET_PATH, Fixture[].class);
 //        List<Fixture> fixtureList = Arrays.asList(resultAll.getBody());
 //        log.info(fixtureList);
@@ -53,7 +52,7 @@ public class FiMyFiWebserviceApplication {
 //
 //        template.put(UP_PATH, fixture);
 
-        // TODO testing if post or get request and check result
+
 //         template.delete(DEL_PATH);
 
 //        log.info("test");
